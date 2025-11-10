@@ -326,7 +326,7 @@ margin-left: -40px;
     width: 150px;
     margin-left: 60px;
     padding-top: 100px;
-    
+   
 }
 
 .sec18 h1{
@@ -562,7 +562,7 @@ height: 300px;
 .sec41 img{
     width: 50px;
     display: flex;
-    
+   
 }
 
 .sec41 h5{
@@ -573,7 +573,7 @@ height: 300px;
 .sec42 img{
     width: 50px;
     display: flex;
-    
+   
 }
 
 .sec42 h5{
@@ -584,7 +584,7 @@ height: 300px;
 .sec43 img{
     width: 50px;
     display: flex;
-    
+   
 }
 
 .sec43 h5{
@@ -612,7 +612,7 @@ font-size: 16px;
 }
 
 form textarea {
-height: 120px;
+height: 300px;
 resize: none;
 }
 
@@ -639,7 +639,7 @@ color: black;
     background-image: url(offer-background.jpg);
     text-align: center;
     color: white;
-    margin-top: 140px;
+    margin-top: -20px;
     height: 50px;
 }
 
@@ -647,199 +647,201 @@ color: black;
     padding-top: 15px;
 }
 
-
 @media (max-width: 480px) {
-    nav img{
-    margin-left: -30px;
+nav img {
+margin-left: -10%;
+width: 25%;
+}
+
+nav ul {
+display: flex;
+margin-left: -6%;
+margin-top: 10%;
+}
+
+nav ul li a {
+font-size: 70%;
+margin-left: -60%;
+padding-left: 5%;
+}
+
+
+
+.sec2 {
+margin-left: 17%;
+margin-top: 50%;
+font-size: 50%;
+}
+
+.sec5 button {
+margin-top: 6%;
+margin-left: 31%;
+}
+
+.sec60 {
+margin-left: -245%;
+display: block;
+}
+
+.sec60 img{
     width: 25%;
 }
 
-nav ul{
-    display: flex;
-    margin-left: -30px;
-    margin-top: 40px;
+.sec7 {
+margin-top: 140%;
+margin-left: 4%;
 }
 
-nav ul li a{
-    font-size: 15px;
-    margin-left: -30px;
+.sec8 {
+margin-top: -10%;
+margin-left: 4%;
 }
 
-.sec2{
-    margin-left: 80px;
-    margin-top: 70px;
-    font-size: 10px;
+.sec9 button{
+    margin-left: 25%;
 }
 
-.sec5 button{
-    margin-top: 30px;
-    margin-left: 150px;
+.sec10 {
+height: 330%;
 }
 
-.sec60{
-    margin-left: -860px;
-    display: block;
+.sec12 {
+display: block;
 }
 
-.sec7{
-    margin-top: 500px;
-    margin-left: 20px;
-}
-
-.sec8{
-    margin-top: -110px;
-    margin-left: 20px;
-}
-
-.sec10{
-    height: 1550px;
-}
-
-.sec12{
-    display: block;
-}
-
-.sec13{
-  margin-left: -250px;
-    margin-top: 30px;
+.sec13 {
+margin-left: -150%;
+margin-top: 6%;
 }
 
 .sec13 img{
-    margin-left: 170px;
+margin-left: 35%;
 }
 
-.sec13 h1{
-    margin-left: 40px;
+.sec13 h1,
+.sec13 p {
+margin-left: 17%;
+font-size: 90%;
+margin-top: 10%;
 }
 
-.sec13 p{
-    margin-left: 40px;
+.sec13 s {
+margin-left: 40%;
 }
 
-.sec13 s{
-    margin-left: 200px;
+.sec14 {
+margin-left: -150%;
+margin-top: 6%;
 }
 
-
-.sec14{
-    margin-left: -250px;
-    margin-top: 30px;
+.sec14 img {
+margin-left: 35%;
 }
 
-
-.sec14 img{
-    margin-left: 170px;
+.sec14 h1,
+.sec14 p {
+margin-left: 17%;
+font-size: 90%;
+margin-top: 10%;
 }
 
-.sec14 h1{
-    margin-left: 40px;
+.sec14 s {
+margin-left: -45%;
 }
 
-.sec14 p{
-    margin-left: 40px;
+.sec15 {
+margin-left: -150%;
+margin-top: 6%;
 }
 
-.sec14 s{
-    margin-left: -35px;
+.sec15 img {
+margin-left: 35%;
 }
 
-.sec15{
-    margin-left: -250px;
-    margin-top: 30px;
+.sec15 h1,
+.sec15 p {
+margin-left: 8%;
+font-size: 90%;
+margin-left: 17%;
+margin-top: 5%;
 }
 
-.sec15 img{
-    margin-left: 170px;
+.sec15 s {
+margin-left: -80%;
 }
 
-.sec15 h1{
-    margin-left: 40px;
+.sec17 {
+display: block;
+margin-left: -10%;
 }
 
-.sec15 p{
-    margin-left: 40px;
+.sec17 h2 {
+margin-left: 63%;
+margin-top: 1%;
 }
 
-.sec15 s{
-    margin-left: -50px;
-}
-
-.sec17{
-    display: block;
-    margin-left: -50px;
-}
-
-.sec17 h2{
-margin-left: 300px;
-margin-top: 5px;
-}
-
-.sec27{
-    margin-left: 0px;
+.sec27 {
+margin-left: 0%;
 }
 
 .sec28{
-    margin-left: -420px;
+margin-left: -160%;
 }
 
-.sec29{
-    height: 1200px;
-    display: block;
+.sec29 {
+height: 200%;
+display: block;
 }
 
-.sec30{
-    margin-left: -250px;
+
+.sec30,
+.sec31,
+.sec32,
+.sec33 {
+margin-left: -70%;
+padding-top: -20%;
 }
 
-.sec31{
-    margin-left: -250px;
+.sec34 {
+height: 100%;
+margin-left: -4%;
 }
 
-.sec32{
-    margin-left: -250px;
+.sec35,
+.sec36 {
+display: block;
+margin-left: -5%;
 }
 
-.sec33{
-    margin-left: -250px;
+.sec35 img{
+    width: 80%;
 }
 
-.sec34{
-    height: 1750px;
-    margin-left: -20px;
+.sec36 img{
+    width: 80%;
 }
 
-.sec35{
-    display: block;
+.sec38 {
+margin-top: -21%;
+margin-left: 4%;
 }
 
-.sec36{
-    display: block;
+.sec39 {
+margin-left: -68%;
 }
 
-.sec38{
-    margin-top: -100px;
-    margin-left: 20px;
+.sec40 {
+margin-left: 4%;
 }
 
-.sec39{
-    margin-left: -220px;
+.sec45 {
+background-color: #f6f5f2;
+margin-left: -5%;
+margin-top: 0%;
+width: 80%;
 }
 
-.sec40{
-    margin-left: 20px;
+.sec50 {
+margin-top: -5%;
 }
-
-.sec45{
-   background-color: #f6f5f2;
-    margin-left: -10px;
-    margin-top: 0px;
-}
-
-.sec50{
-    margin-top: -25px;
-}
-
-}
-@media (min-width: 769px) and (max-width: 1024px) {
-    
 }
